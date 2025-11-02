@@ -4,13 +4,13 @@ export default function Footer() {
   return (
     <footer className="w-full  h-1/12 text-center  bg-slate-200  flex flex-col justify-center items-center">
       <div >
-        <p className="text-xs text-gray-500">反馈渠道
+        <p className="text-xs text-gray-500">提示就一个Channel接口能用别的都没维护||
           <Link 
-          href="https://baidu.com"
+          href="https://tc.c300.dpdns.org"
           className="text-blue-300  hover:text-red-900 ml-1"
           target="_blank"
           rel="noopener noreferrer"
-          >by三百图床</Link> </p>
+          >||by三百图床</Link> </p>
       </div>
     </footer>
   );
